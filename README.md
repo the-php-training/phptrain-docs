@@ -13,9 +13,9 @@ The first Tenant of this product is the PHP Training platform.
 This platform is built following **Domain-Driven Design (DDD)** principles to ensure a well-structured and maintainable system. By focusing on the **business domain**, we aim to create a model that accurately reflects how teachers and students interact with courses, topics and content.  
 
 Key aspects of our DDD approach:  
-- [**Ubiquitous Language**](./1.domain/1.ubiquitous-language) – Establishing a shared terminology to align developers and domain experts.  
-- [**Domain Scenarios**](./1.domain/2.domain-scenarios)  – Summarising the main scenarios from our real-domain-world which we want to cover in our software.
-- [**Domain Model**](./1.domain/3.domain-model)  – Structuring business logic to mirror real-world teaching workflows.
+- [**Ubiquitous Language**](./1.domain/1.ubiquitous-language.md) – Establishing a shared terminology to align developers and domain experts.  
+- [**Domain Scenarios**](./1.domain/2.domain-scenarios.md)  – Summarising the main scenarios from our real-domain-world which we want to cover in our software.
+- [**Domain Model**](./1.domain/3.domain-model.md)  – Structuring business logic to mirror real-world teaching workflows.
 
 By leveraging DDD, we create a **scalable and adaptable architecture** that evolves alongside the needs of independent teachers and students.  
 
@@ -53,7 +53,7 @@ The primary goal of the Minimum Viable Product (MVP) is to provide a functional,
 
 The platform's architecture is designed to support a **scalable, modular monolith** while ensuring flexibility for future growth. The **MVP Architecture** document details about our choices in terms of key technologies, infrastructure setup and deployment strategies.  
 
-📄 **For a detailed breakdown, see:** [Architecture Overview](./2.architecture/1.architecture)  
+📄 **For a detailed breakdown, see:** [Architecture Overview](./2.architecture/1.architecture.md)  
 
 ## Future Vision
 
